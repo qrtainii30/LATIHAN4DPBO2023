@@ -18,4 +18,6 @@ Buatlah program berbasis OOP menggunakan bahasa pemrograman C++ dan Python yang 
 
 ## Penjelasan
 ● Kelas Human menjadi parent untuk kelas Siak dan memiliki cucu Mahasiswa dan Dosen. Kedua kelas tersebut mewarisi atribut milik Siak(parent) dan Human (grand parent) <br>
-● Prodi composite dengan Course, Dosen, dan Mahasiswa karena setiap Prodi memiliki Course, Dosen, dan juga Mahasiswa. Sehingga prodi dapat memanggil kelas tersebut 
+● Kelas Prodi composite dengan kelas Course, Dosen, dan Mahasiswa karena setiap Prodi memiliki Course, Dosen, dan juga Mahasiswa. Sehingga prodi dapat memanggil kelas tersebut secara langsung.
+
+# Dokumentasi
